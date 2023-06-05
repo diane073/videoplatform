@@ -1,9 +1,15 @@
-# video&writing platfrom  
+# video&writing platfrom MSG
 
+# MSG means "My Story Gee"
 
 It is a video&writing platfrom based on Django Restframework.
 
 ----------
+## stack
+- python 3.8 이상
+- django
+- html
+- javascript
 
 ## project description
 It is a service that freely upload and share videos and posts like YouTube and Instagram.
